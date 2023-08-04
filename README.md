@@ -1,5 +1,5 @@
 # TimeTable
-Username - admin  Password - admin \n
+Username - admin  Password - admin <br>
 This project is dedicated to all the teachers and professors who face problems while designing timetable.
 
 ## Folder description
