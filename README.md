@@ -1,12 +1,12 @@
 # TimeTable
-Username - admin  Password - admin
+Username - admin  Password - admin 
 This project is dedicated to all the teachers and professors who face problems while designing timetable.
 
 ## Folder description
-files - this folder contains the database that is being used
-pdfs - in the code a print option is provided the pdfs are saved here
-windows - contains the code for all the windows that are built in this project
-main.py - this the main code that combines all the files and make the application running
+1) files - this folder contains the database that is being used
+2) pdfs - in the code a print option is provided the pdfs are saved here
+3) windows - contains the code for all the windows that are built in this project
+4) main.py - this the main code that combines all the files and make the application running
 
 ## Key skills
 Python, SQL(sqlite), DBMS, tkinter
